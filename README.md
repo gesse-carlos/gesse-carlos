@@ -1,4 +1,4 @@
-### Hi i'm Gessé Carlos 👋
+### Hi i'm Gessé Carlos , Ruby on Rails and React developer 👋
 
 - 🌱 I’m currently learning: NextJS and Typescript
 - 📫 How to reach me: gesse.carlos@outlook.com
