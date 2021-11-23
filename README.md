@@ -2,5 +2,5 @@
 
 - 🌱 I’m currently learning: NextJS, TypeScript and Ruby on Rails
 - 📫 How to reach me: gesse.carlos@outlook.com
-- 💼 Linkedin: https://www.linkedin.com/in/gessé-carlos-095306204/
+- 💼 Linkedin: https://www.linkedin.com/in/gesse-carlos/
 - 😄 Pronouns: He/Him
