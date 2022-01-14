@@ -30,7 +30,6 @@
   <img align="center" alt="express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="mocha" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
   <img align="center" alt="chai" height="30" width="40" src="https://iconape.com/wp-content/files/es/370685/svg/370685.svg">
-  <img align="center" alt="sinon" height="30" width="40" src="https://camo.githubusercontent.com/c1d8136cb62cfd03e64b9193b7384fd75804a7b1bd9b8b705b51cc9d99de8fe3/68747470733a2f2f73696e6f6e6a732e6f72672f6173736574732f696d616765732f6c6f676f2e706e67">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 </div>
 
