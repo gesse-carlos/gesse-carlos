@@ -6,7 +6,7 @@
     <li>- 🔭 I'm currently studying Software Development at <a href="https://betrybe.com">Trybe</a></li>
     <li>- 🌱 I’m currently learning: NestJS and GraphQL </li>
     <li>- Linkedin: https://www.linkedin.com/in/gesse-carlos/ </li>
-    <li>- 😄 Pronouns: He/Him </li>
+    <li>- 😄 Pronouns: He/His </li>
     <li>- My links: https://gessecarlos.vercel.app/ </li>
   </div>
 </div>
