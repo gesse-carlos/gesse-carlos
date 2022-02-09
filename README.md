@@ -4,7 +4,7 @@
   <img height="150px" align="right" src="https://i.pinimg.com/originals/29/09/5a/29095ab4277e3b71d65d4874db10bef3.png" />
   <div align="left" style="display: inline_block">
     <li>- 🔭 I'm currently studying Software Development at <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 I’m currently learning: NestJS and GraphQL </li>
+    <li>- 🌱 I’m currently learning: Golang and GraphQL </li>
     <li>- Linkedin: https://www.linkedin.com/in/gesse-carlos/ </li>
     <li>- 😄 Pronouns: He/His </li>
     <li>- My links: https://gessecarlos.vercel.app/ </li>
