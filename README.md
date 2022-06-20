@@ -1,4 +1,4 @@
-### Hi i'm Gessé Carlos , React/Node developer 👋
+### Hi i'm Gessé Carlos , FullStack developer 👋
 
 <div align="center">
   <img height="150px" align="right" src="https://i.pinimg.com/originals/29/09/5a/29095ab4277e3b71d65d4874db10bef3.png" />
