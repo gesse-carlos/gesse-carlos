@@ -3,7 +3,7 @@
 <div align="center">
   <img height="150px" align="right" src="https://i.pinimg.com/originals/29/09/5a/29095ab4277e3b71d65d4874db10bef3.png" />
   <div align="left" style="display: inline_block">
-    <li>- 🔭 Currently I work at <a href="https://www.technipfmc.com/">TechnipFMC</a> solving problems with Software Engineering and DevOps </li>
+    <li>- 🔭 Currently I work at <a href="https://www.technipfmc.com/" target="_blank">TechnipFMC</a> solving problems with Software Engineering and DevOps </li>
     <li>- Linkedin: https://www.linkedin.com/in/gesse-carlos/ </li>
     <li>- 😄 Pronouns: He/His </li>
     <li>- My links: https://gessecarlos.vercel.app/ </li>
